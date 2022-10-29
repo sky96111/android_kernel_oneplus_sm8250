@@ -1,3 +1,6 @@
+Publish cycle follows upstream https://github.com/LineageOS/android_kernel_oneplus_sm8250
+This fork only add support of latest stable WireGuard kernel module
+
 Linux kernel
 ============
 
